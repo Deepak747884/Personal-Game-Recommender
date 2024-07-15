@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">Personal Game Recommender</string>
+<string-array name="genres_array">
+    <item>Choose</item>
+    <item>Action RPG</item>
+    <item>Puzzle</item>
+    <item>Mystery</item>
+    <item>Battle Royale</item>
+    <item>Strategy</item>
+    <item>Time Killer</item>
+</string-array>
+</resources>
